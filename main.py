@@ -68,7 +68,7 @@ class CppBlockApp:
             "Операторы": ["operator"], 
             "Функции": ["function"],
             "Кастомные функции": ["custom_function"],
-            "Управление": ["return"]
+            "Возврат функций": ["return"]
         }
         
         for category, blocks in categories.items():
